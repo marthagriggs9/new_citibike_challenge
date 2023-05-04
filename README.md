@@ -33,11 +33,15 @@ After graphing the total number of rides for August 2019 by the hour of start ti
 
 The hours of 5PM and 6PM on Thursdays saw the highest usage of Citibike for August 2019. 
 
+![image](https://user-images.githubusercontent.com/115905663/236078125-dce48208-4074-4e05-a6d9-a2f3bb7507a2.png)
 
-The top 3 starting and ending bike stations were Pershing Square North, E 17th St & Broadway, and West St and Chambers St., which are all high tourist areas and close to subway stations. Besides being popular sight-seeing/activity areas, being near other public transit options could have influenced riders' decision to use Citibike. 
+The top 3 starting and ending bike stations were Pershing Square North, E 17th St & Broadway, and West St and Chambers St., respectively, which are all high tourist areas and close to subway stations. Besides being popular sight-seeing/activity areas, being near other public transit options could have influenced riders' decision to use Citibike. 
 
+![image](https://user-images.githubusercontent.com/115905663/236078247-ab930c3f-f382-42bf-b0a8-9cb0ce3e43db.png)
 
 Less riders started and ended rides in residential areas (east of the river) during August 2019. This could be due to the distance from the main city center and other modes of transportation being faster/easier than Citibike. It should also be noted that there were ~10 ending stations located in New Jersey that all had rider counts of 1. These were filtered out of the Bottom 10 End Stations visual. 
+
+![image](https://user-images.githubusercontent.com/115905663/236078422-62954fd0-2bf6-46cd-b8ee-1d7904736fc6.png)
 
 When analyzing checkout time for users, the tripduration for NYC Citibike users peaked at 5 minutes. Most NYC Citibike trips were under 1 hour in length. While there were trips that lasted more than 1 hour, these times could be the result of user error when returning the bicycle or possible thefts. 
 
