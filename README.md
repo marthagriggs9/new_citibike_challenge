@@ -38,3 +38,13 @@ The top 3 starting and ending bike stations were Pershing Square North, E 17th S
 
 
 Less riders started and ended rides in residential areas (east of the river) during August 2019. This could be due to the distance from the main city center and other modes of transportation being faster/easier than Citibike. It should also be noted that there were ~10 ending stations located in New Jersey that all had rider counts of 1. These were filtered out of the Bottom 10 End Stations visual. 
+
+When analyzing checkout time for users, the tripduration for NYC Citibike users peaked at 5 minutes. Most NYC Citibike trips were under 1 hour in length. While there were trips that lasted more than 1 hour, these times could be the result of user error when returning the bicycle or possible thefts. 
+
+Males made up more than half of all daily riders each day in August 2019. Daily usage for females remained steady at about 24% of daily riders throughout the month. 
+
+Male riders between the ages of 30-39 make up the largest group of riders. The 20-29 age bracket make up the most number of female riders. There were likely errors in birth year input that were filtered out of this visual (born before 1940). While there could be individuals aged 80+ that may participate in Citibike usage, it is unlikely that these were valid birth years and most likely false data. 
+
+The trip length based on gender again shows that males and females both check out Citibikes for about 5-6 minutes, but many more males use Citibikes than females. 
+
+Overall, more males are riding Citibikes. 6PM is the most popular checkout time, with Thursdays seeing the most male riders. 
