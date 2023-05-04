@@ -21,5 +21,20 @@ phenomenon may be occuring.
 ## Overview
 
 New York City Citibike data from August 2019 was analyzed to show trends for times of day, days of the week, gender, starting locations and ending locations. Pandas was used to change the 'tripduration' column from an integer to a datetime datatype.
-type
+Using the converted datatype, visualizations were created to show the length of time the bikes were checked out for all riders and genders, as well as age. Visualizations were also created to show peak hours for August 2019 and the top and bottom starting and ending locations for riders. 
 
+## Link to Tableau Dashboard
+
+[NYC Citibike August Analysis]()
+
+# Results
+After graphing the total number of rides for August 2019 by the hour of start time, the peak hours were consistently between 8AM-10AM and 5PM-7PM. This is likely due to the need for transportation during work commutes. 
+
+
+The hours of 5PM and 6PM on Thursdays saw the highest usage of Citibike for August 2019. 
+
+
+The top 3 starting and ending bike stations were Pershing Square North, E 17th St & Broadway, and West St and Chambers St., which are all high tourist areas and close to subway stations. Besides being popular sight-seeing/activity areas, being near other public transit options could have influenced riders' decision to use Citibike. 
+
+
+Less riders started and ended rides in residential areas (east of the river) during August 2019. This could be due to the distance from the main city center and other modes of transportation being faster/easier than Citibike. It should also be noted that there were ~10 ending stations located in New Jersey that all had rider counts of 1. These were filtered out of the Bottom 10 End Stations visual. 
